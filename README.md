@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+---
+
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="20" height="20"/> https://www.linkedin.com/in/kasparsvanags/
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="Azure" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" width="50" height="50"/>
+
+---
+
 <!--
 **KasparsVanags/KasparsVanags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
